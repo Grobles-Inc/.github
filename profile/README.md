@@ -1,46 +1,42 @@
-# Grobles Dev 🚀
+# Grobles Dev
 
-**Ubicación:** Lima, Perú 🇵🇪  
-**Industria:** Desarrollo de Software
-
----
-
-## ¿Quiénes somos?
-
-**Grobles Dev** es una startup peruana especializada en el desarrollo de soluciones digitales a medida. Nos apasiona crear experiencias digitales impactantes que combinan diseño de alta calidad con tecnología moderna.
+**Ubicación:** Lima, Perú
+**Industria:** Soluciones Digitales
 
 ---
 
-## 🛠️ Lo que hacemos
+## Acerca de Nosotros
 
-- 🌐 **Diseño y Desarrollo Web**  
-- 📱 **Desarrollo de Aplicaciones Móviles**  
-- 🎨 **Diseño UX/UI centrado en el usuario**  
-- 🧩 **Proyectos personalizados para empresas y emprendimientos**
+Grobles Dev es una startup peruana especializada en ofrecer soluciones digitales integrales. Nuestro enfoque es colaborar con empresas y emprendedores para crear experiencias digitales impactantes y funcionales que impulsen el crecimiento y la eficiencia. Combinamos diseño estratégico con la tecnología adecuada para cada desafío.
 
 ---
 
-## 💻 Tecnologías que usamos
+## Servicios
 
-- React.js ⚛️  
-- React Native 📱  
-- TypeScript 💙  
-- Supabase 🧠  
-- Figma 🎨  
-- TailwindCSS 💨  
-- GitHub 🚀
+Ofrecemos un portafolio completo de servicios diseñados para abordar las necesidades digitales de nuestros clientes:
 
----
-
-## 🤝 Trabaja con nosotros
-
-¿Tienes una idea? ¿Quieres llevar tu negocio al siguiente nivel?  
-**Contáctanos y creemos algo increíble juntos.**
-
-📩 grobles.dev@gmail.com   
-🌐 [www.grobles.framer.website](https://grobles.framer.website/) 
+*   **Desarrollo de Software a Medida:** Incluyendo aplicaciones web, móviles y de escritorio.
+*   **Consultoría Tecnológica:** Asesoramiento experto para optimizar procesos y elegir las herramientas adecuadas.
+*   **Diseño UX/UI:** Creando experiencias digitales intuitivas y atractivas.
+*   **Marketing Digital:** Estrategias y ejecución para aumentar tu presencia online.
+*   **Soluciones de TI:** Servicios relacionados con la infraestructura y operación tecnológica.
+*   **Proyectos Digitales Personalizados:** Abordamos cualquier desafío digital con soluciones a medida.
 
 ---
 
-> _“El buen software no solo funciona, también se siente bien.”_  
-> — Grobles Dev Team
+## Colabora con Nosotros
+
+¿Buscas un aliado estratégico para tu próximo proyecto digital? ¿Necesitas asesoramiento tecnológico o soluciones a medida para tu negocio?
+
+Estamos listos para escuchar tus ideas y ayudarte a convertirlas en realidad.
+
+**Correo Electrónico:** grobles.dev@gmail.com
+**Sitio Web:** [www.grobles.framer.website](https://grobles.framer.website/)
+
+---
+
+<blockquote>
+  "Creemos en el poder de la tecnología para transformar negocios y crear valor."
+  <br>
+  &mdash; Equipo de Grobles Dev
+</blockquote>
