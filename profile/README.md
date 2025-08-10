@@ -1,13 +1,13 @@
 # Grobles
 
-**Ubicación:** Lima, Perú
-**Industria:** Soluciones Digitales
+**Ubicación:** Huancayo, Perú
+**Industria:** Soluciones Digitales & TI
 
 ---
 
 ## Acerca de Nosotros
 
-Grobles Dev es una startup peruana especializada en ofrecer soluciones digitales integrales. Nuestro enfoque es colaborar con empresas y emprendedores para crear experiencias digitales impactantes y funcionales que impulsen el crecimiento y la eficiencia. Combinamos diseño estratégico con la tecnología adecuada para cada desafío.
+Somos una startup peruana especializada en ofrecer soluciones digitales integrales. Nuestro enfoque es colaborar con empresas y emprendedores para crear experiencias digitales impactantes y funcionales que impulsen el crecimiento y la eficiencia. Combinamos diseño estratégico con la tecnología adecuada para cada desafío.
 
 ---
 
@@ -31,12 +31,12 @@ Ofrecemos un portafolio completo de servicios diseñados para abordar las necesi
 Estamos listos para escuchar tus ideas y ayudarte a convertirlas en realidad.
 
 **Correo Electrónico:** grobles.dev@gmail.com
-**Sitio Web:** [www.grobles.framer.website](https://grobles.framer.website/)
+**Sitio Web:** [www.grobles.framer.website](https://grobles.vercel.app/)
 
 ---
 
 <blockquote>
   "Creemos en el poder de la tecnología para transformar negocios y crear valor."
   <br>
-  &mdash; Equipo de Grobles Dev
+  &mdash; Equipo de Grobles
 </blockquote>
